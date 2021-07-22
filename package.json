@@ -8,7 +8,8 @@
     "lint": "standard . --fix"
   },
   "files": [
-    "App.js"
+    "App.js",
+    "cli.js"
   ],
   "author": {
     "name": "Alestor Aldous",
@@ -42,5 +43,8 @@
     "standard": "^16.0.3",
     "tap": "^15.0.9",
     "tap-spec": "^5.0.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1"
   }
 }
