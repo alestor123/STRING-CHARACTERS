@@ -14,6 +14,9 @@
     "name": "Alestor Aldous",
     "url": "https://alestor123.github.io"
   },
+  "bin": {
+    "string-characters": "cli.js"
+  },
   "funding": "https://alestor123.is-a.dev/donate/",
   "engines": {
     "node": ">=10"
